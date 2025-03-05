@@ -38,20 +38,16 @@ Python, Randomization
    ```bash
    git clone https://github.com/muhammadrasheed03/Projects.git
 
-
-Clone the Repository:
-git clone https://github.com/muhammadrasheed03/Projects.git
-
-Navigate to a Project Directory:
+2. **Navigate to a Project Directory**:
 cd Projects/<Project_Directory>
 
-Follow the Instructions: Each project contains a README.md file with specific setup instructions and dependencies.
+3. **Follow the Instructions**: Each project contains a README.md file with specific setup instructions and dependencies.
 
-Contributions
+**Contributions**
 While this repository primarily showcases my personal work, I welcome suggestions and improvements. Feel free to fork the repository and submit pull requests for any enhancements.
 
-Author
+**Author**
 Muhammad Yaseen Rasheed
 
-License
+**License**
 This repository is for educational purposes and can be freely modified and distributed.

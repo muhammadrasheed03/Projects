@@ -1,9 +1,4 @@
-/*  Yash Jain (yj6683, TACC: yashj1579)
- *  Muhammad Rasheed (myr385, TACC: muhammadrasheed)
- *  Sanchit Singhal (ss99628, TACC: ssinghal37)
- *
- *  COE 322 Final Project - Amazon Delivery / Traveling Salesman Problem
- */
+//Amazon Delivery / Traveling Salesman Problem
 
 #include <iostream>
 #include <fstream>

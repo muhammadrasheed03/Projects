@@ -1,21 +1,43 @@
-#Projects Repository
+# Projects by Muhammad Yaseen Rasheed
 
-Welcome to my Projects Repository! This collection showcases a variety of software projects I've developed, encompassing both academic assignments and personal endeavors. Each project reflects my journey in software development, highlighting the diverse technologies and tools I've engaged with.
+This repository contains a variety of computational projects, ranging from optimization problems to machine learning models and simulations. Below is an overview of each project and the technologies used.
 
+---
 
-Machine Learning Projects: Contains projects related to machine learning, including data preprocessing, model training, and evaluation.
-Web Development Projects: Includes web applications developed using various frameworks and technologies.
-Embedded Systems Projects: Features projects involving hardware programming and embedded systems.
-Technologies and Tools Used
-Throughout these projects, I've utilized a range of software and tools, including:
+## Projects Overview
 
-Programming Languages: Python, JavaScript, C++
-Frameworks and Libraries:
-Machine Learning: PyTorch, scikit-learn
-Web Development: React, Node.js, Express
-Tools: Git for version control, Docker for containerization, and Jupyter Notebooks for interactive coding and data analysis.
-Getting Started
-To explore these projects:
+### 1. Traveling Salesman Problem (TSP) - Research & Implementation
+**Overview**: An exploration of the Traveling Salesman Problem, including algorithm implementation and visualization.
+**Technologies Used**: C++, Python, LaTeX, CMake
+
+### 2. California Neural Network
+**Overview**: A neural network model to predict housing prices in California using a Multi-Layer Perceptron.
+**Technologies Used**: Python, PyTorch, scikit-learn, NumPy, Pandas
+
+### 3. Checkout Line Simulation
+**Overview**: A simulation of a checkout line that tracks customer arrivals and processing time using event-driven modeling.
+**Technologies Used**: Python, Object-Oriented Programming, File Handling
+
+### 4. Deck of Cards
+**Overview**: A simulation of a 52-card deck with operations such as shuffling, cutting, and dealing cards.
+**Technologies Used**: C++, Object-Oriented Programming, STL, Randomization
+
+### 5. Conway's Game of Life
+**Overview**: A simulation of Conway's Game of Life, where cells evolve based on simple rules.
+**Technologies Used**: Python, Object-Oriented Programming
+
+### 6. Rock, Paper, Scissors Game
+**Overview**: A command-line game where the user plays against the machine, with win/loss statistics tracked.
+**Technologies Used**: Python, Randomization
+
+---
+
+## How to Run the Projects
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/muhammadrasheed03/Projects.git
+
 
 Clone the Repository:
 git clone https://github.com/muhammadrasheed03/Projects.git
@@ -28,5 +50,8 @@ Follow the Instructions: Each project contains a README.md file with specific se
 Contributions
 While this repository primarily showcases my personal work, I welcome suggestions and improvements. Feel free to fork the repository and submit pull requests for any enhancements.
 
+Author
+Muhammad Yaseen Rasheed
+
 License
-This repository is licensed under the MIT License. For more details, refer to the LICENSE file.
+This repository is for educational purposes and can be freely modified and distributed.

@@ -1,6 +1,6 @@
 
 # Description of Program: This program is a simple game of Rock, Paper, Scissors. The user plays against the machine, 
-# The machine's play is random
+# the machine's play is random
 import random
 import sys
 

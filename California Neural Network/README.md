@@ -52,7 +52,5 @@ This project implements a **Multi-Layer Perceptron (MLP)** to predict California
 - The dataset used is the **California Housing dataset**, which contains **8 numerical features** related to house prices in California.  
 - More details: [California Housing Dataset](https://scikit-learn.org/stable/datasets/real_world.html#california-housing-dataset).
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](../LICENSE) file for details.
 
 

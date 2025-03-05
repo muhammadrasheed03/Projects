@@ -1,6 +1,6 @@
 # Projects by Muhammad Yaseen Rasheed
 
-This repository contains a variety of computational projects, ranging from optimization problems to machine learning models and simulations. Below is an overview of each project and the technologies used.
+This repository contains a variety of software projects, ranging from optimization problems to machine learning models and simulations. Below is an overview of each project and the technologies used.
 
 ---
 

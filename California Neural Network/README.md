@@ -32,7 +32,7 @@ This project implements a **Multi-Layer Perceptron (MLP)** to predict California
 ## Usage
 1. **Run the training script:**
    ```bash
-   python train.py
+   python training.py
    ```
 2. **Evaluate the trained model:**
    ```bash

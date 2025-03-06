@@ -15,7 +15,7 @@ This project implements a **Multi-Layer Perceptron (MLP)** to predict California
    ```bash
    git clone https://github.com/muhammadrasheed03/Projects.git
    ```
-2. **Navigate to the project directory:**
+2. **Navigate to the Project directory:**
    ```bash
    cd Projects/California\ Neural\ Network
    ```
